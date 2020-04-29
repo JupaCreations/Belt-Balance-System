@@ -1,4 +1,4 @@
-# D-workx234
+# D-workx 234
 CoreXY 3D printer 200-300-400 XYZ build volume
 
 Work in progress! 99.9% is ready. Parts are ready and approoved for printing.
