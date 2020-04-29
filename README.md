@@ -48,7 +48,8 @@ STL
 All parts can be printed for best result as oriented in the STL files. I have taken care that supports are very simple to remove or as less as possible. If you feel other orientation is better please do so and adapt your supports. STL filename explanation: NS= No support BS= Bed support only FS= Full support
 
 Filament choices
-If you need the printer for printing regular PLA prints you can print all parts in PLA. If you need the printer for printing PETG and ABS prints you better opt to print the parts in PETG or ABS from the start.PETG is sufficient. PLA parts on heat stressed places can be swapped afterwards for PETG or ABS parts when a PLA printer is running fine. In general if you print all parts in PETG your good to go. Our prototype is fully printed in PLA and with a maximum heat bed temp of 65 degrees Celsius and XYZ motors that barely get warm there is no need for other filament choices. The parts to be printed are not under severe mechanical stress so only heat is a thing to take care of. 25% infill is enough for all parts used. I used REAL filaments PLA
+If you need the printer for printing regular PLA prints you can print all parts in PLA. If you need the printer for printing PETG and ABS prints you better opt to print the parts in PETG or ABS from the start.PETG is sufficient. PLA parts on heat stressed places can be swapped afterwards for PETG or ABS parts when a PLA printer is running fine. In general if you print all parts in PETG your good to go. Our prototype is fully printed in PLA and with a maximum heat bed temp of 65 degrees Celsius and XYZ motors that barely get warm there is no need for other filament choices. The parts to be printed are not under severe mechanical stress so only heat is a thing to take care of. 25% infill is enough for all parts used. I used REAL filaments PLA.
+https://cdn.thingiverse.com/assets/9a/78/26/fe/6c/real_filament.JPG
 
 
 Slicer
