@@ -7,7 +7,7 @@ What is BBS?
 
 BBS is a device that can be used inside a 3D printer to measure 2 independed belt tensions.
 With readily available electronic components you can make this DIY device with small effort and skills.
-The base BBS is in base designed for a RatRig V-Core 3 300mm 3D printer
+The base BBS is in basic designed for a RatRig V-Core 3 300mm 3D printer
 
 Feel free to use this project in NON COMMERCIAL DIY products. The project comes as is and there is no warranty or questions to be answered, sorry.
 
@@ -89,7 +89,3 @@ If you suspect belt tension has changed over time and differ from your base sett
 Do not use the TARE option to reset the load cells to zero once the belts are routed through the tension system! In case you do,unroute the belts and press the select key for 3+ seconds.
 
 Enjoy your DIY BBS.
-
-
-
- 
