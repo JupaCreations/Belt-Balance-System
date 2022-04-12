@@ -1,6 +1,8 @@
 # Belt-Balance-System
 BBS
+
 Belt Balance System
+
 What is BBS?
 
 BBS is a device that can be used inside a 3D printer to measure 2 independed belt tensions.
