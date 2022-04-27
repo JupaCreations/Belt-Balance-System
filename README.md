@@ -11,6 +11,6 @@ The base BBS is in basic designed for a RatRig V-Core 3 300mm 3D printer
 
 Feel free to use this project in NON COMMERCIAL DIY products. The project comes as is and there is no warranty or questions to be answered, sorry.
 
-Check the files for all the info.
+Check the BBS-X.pdf for all the info.
 
 Enjoy your DIY BBS.
