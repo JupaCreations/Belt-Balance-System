@@ -7,7 +7,7 @@ Belt Balance System
 
 What is BBS?
 
-BBS is a device that can be used inside a 3D printer to measure 2 independed belt tensions.
+BBS is a device that can be used inside a 3D printer to measure dynamicly 2 independed (Core XY based) belt tensions.
 With readily available electronic components you can make this DIY device with small effort and skills.
 The base BBS is in basic designed for a RatRig V-Core 3 300mm 3D printer.
 
