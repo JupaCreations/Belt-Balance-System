@@ -7,17 +7,19 @@
  HX711 XWF is set @ 10 samples/second (standard setting)
  pin A4 I2C SDA for Oled display
  pin A5 I2C SLC for Oled display
- Versiion V1.02 15-10-2022
+ Calibration can only start when two HX711 are connected to the Nano
+ Version V1.03 16-6-2023
+ Use IDE 2.1.0
  */
  
-#include <U8glib.h>             //https://code.google.com/p/u8glib/
+#include <U8glib.h>             //Oli Kraus U8G version 1.19.1 from library manager
 #include <Wire.h>               //inbox
 #include <EEPROM.h>             //inbox
-#include <HX711.h>              //BOGDE HX711 from Github https://github.com/bogde/HX711
-#include <Button.h>             //https://github.com/JChristensen/Button
+#include <HX711.h>              //BOGDE HX711 version 0.7.5 from library manager
+#include <JC_Button.h>          //Jack Christensen version 2.1.2 from library manager
 
-HX711 Scale1; // Loadcell_1
-HX711 Scale2; // Loadcell_2
+HX711 Scale1; // Loadcell_1 hardware check
+HX711 Scale2; // Loadcell_2 hardware check
 
 // HX711 circuit wiring
 const int Loadcell_1_DOUT_PIN = 7;
